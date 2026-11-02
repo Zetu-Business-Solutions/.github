@@ -96,24 +96,52 @@ Zetu Business Solutions is a Kenya-based software company. We design, build, and
   <tr>
     <td align="center" width="160">
       <a href="https://github.com/learninghub44">
-        <img src="https://images.weserv.nl/?url=github.com/learninghub44.png&w=160&h=160&fit=cover&mask=circle" width="96" alt="Chris" /><br/>
-        <b>Chris</b>
+        <img src="https://images.weserv.nl/?url=github.com/learninghub44.png&w=160&h=160&fit=cover&mask=circle" width="96" alt="Chris Dev Odhiambo" /><br/>
+        <b>Chris Dev Odhiambo</b>
       </a><br/>
       <sub>Founder and Lead Developer</sub>
     </td>
-    <!-- Add teammates: copy the cell above, swap the username, name, and role -->
+    <td align="center" width="160">
+      <a href="https://github.com/zetuzote">
+        <img src="https://images.weserv.nl/?url=github.com/zetuzote.png&w=160&h=160&fit=cover&mask=circle" width="96" alt="ZETUBIZ Kenya" /><br/>
+        <b>ZETUBIZ Kenya</b>
+      </a><br/>
+      <sub>Organization Owner</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/cybercare47-stack">
+        <img src="https://images.weserv.nl/?url=github.com/cybercare47-stack.png&w=160&h=160&fit=cover&mask=circle" width="96" alt="cybercare47-stack" /><br/>
+        <b>cybercare47-stack</b>
+      </a><br/>
+      <sub>Member</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/maryadhiambo294-ctrl">
+        <img src="https://images.weserv.nl/?url=github.com/maryadhiambo294-ctrl.png&w=160&h=160&fit=cover&mask=circle" width="96" alt="maryadhiambo294-ctrl" /><br/>
+        <b>maryadhiambo294-ctrl</b>
+      </a><br/>
+      <sub>Member</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Ranty1-cloud">
+        <img src="https://images.weserv.nl/?url=github.com/Ranty1-cloud.png&w=160&h=160&fit=cover&mask=circle" width="96" alt="Ranty tech" /><br/>
+        <b>Ranty tech</b>
+      </a><br/>
+      <sub>Member</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/WendyAtieno">
+        <img src="https://images.weserv.nl/?url=github.com/WendyAtieno.png&w=160&h=160&fit=cover&mask=circle" width="96" alt="Wendy Atieno Ouma" /><br/>
+        <b>Wendy Atieno Ouma</b>
+      </a><br/>
+      <sub>Member</sub>
+    </td>
   </tr>
 </table>
 
-## Services
 
-| Service | What you get |
-| :-- | :-- |
-| **Custom software** | Web apps, internal tools, dashboards, and APIs scoped to your workflow |
-| **SaaS development** | Multi-tenant architecture, subscriptions, onboarding, and admin tooling |
-| **Payments integration** | M-Pesa, Paystack, and gateway integration with reconciliation |
-| **Websites and e-commerce** | Fast, SEO-ready, mobile-first storefronts and marketing sites |
-| **Mobile apps** | Cross-platform apps built with Expo and React Native |
 | **Training** | Hands-on coding classes and developer mentorship |
 
 ## Community
