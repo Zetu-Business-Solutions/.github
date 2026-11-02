@@ -18,7 +18,7 @@
 
 ## About
 
-Zetu Business Solutions is a Kenya-based software company. We design, build, and operate web and mobile platforms for businesses, institutions, and startups, from first prototype to production deployment.
+Zetu Business Solutions is a Kenya-based software company. We design, build, and operate web and mobile platforms for businesses, institutions, and startups, from first prototype to production deployment. We also run hands-on coding classes and developer mentorship.
 
 <table>
   <tr>
@@ -29,55 +29,51 @@ Zetu Business Solutions is a Kenya-based software company. We design, build, and
   </tr>
 </table>
 
-## Products
+## What we build
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>ZetuPay</h3>
-      <p>Payment gateway and aggregator for Kenyan merchants, with an admin console and merchant dashboard.</p>
-      <img src="https://img.shields.io/badge/status-in%20development-2563eb?style=flat-square" alt="status" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>PayFlow</h3>
-      <p>Internal payment management platform with reconciliation, reporting, and Paystack integration.</p>
-      <img src="https://img.shields.io/badge/status-active-16a34a?style=flat-square" alt="status" /><br/>
+      <h3>SaaS platforms</h3>
+      <p>Multi-tenant products with tenant isolation, subscriptions, role-based access, and admin consoles. HR, POS, CRM, school management, and more.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>Payments and fintech</h3>
+      <p>Payment gateways, M-Pesa and Paystack integrations, reconciliation, and reporting for Kenyan merchants.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-      <h3>HRMS</h3>
-      <p>Multi-tenant HR management SaaS covering employees, leave, payroll, and attendance.</p>
-      <img src="https://img.shields.io/badge/status-active-16a34a?style=flat-square" alt="status" /><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <h3>Business software</h3>
+      <p>Custom internal tools, dashboards, and APIs designed around how your business actually operates.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>Smart POS</h3>
-      <p>Multi-tenant point-of-sale and inventory system for retail and hospitality.</p>
-      <img src="https://img.shields.io/badge/status-active-16a34a?style=flat-square" alt="status" /><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>School ERP</h3>
-      <p>CBC-aligned school management for admissions, fees, academics, and reporting.</p>
-      <img src="https://img.shields.io/badge/status-active-16a34a?style=flat-square" alt="status" /><br/>
+      <h3>Websites and e-commerce</h3>
+      <p>Fast, SEO-ready, mobile-first marketing sites and online stores with payments built in.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h3>WhatsApp AI</h3>
-      <p>Multi-tenant WhatsApp automation platform with AI-assisted customer conversations.</p>
-      <img src="https://img.shields.io/badge/status-in%20development-2563eb?style=flat-square" alt="status" /><br/>
+      <h3>Mobile apps</h3>
+      <p>Cross-platform iOS and Android apps with secure backends, built with Expo and React Native.</p>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI and automation</h3>
+      <p>WhatsApp automation, AI-assisted customer conversations, and workflow tooling that saves your team time.</p>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -140,9 +136,6 @@ Zetu Business Solutions is a Kenya-based software company. We design, build, and
     </td>
   </tr>
 </table>
-
-
-| **Training** | Hands-on coding classes and developer mentorship |
 
 ## Community
 
